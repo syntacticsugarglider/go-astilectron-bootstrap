@@ -3,7 +3,7 @@ package bootstrap
 import (
 	"encoding/json"
 
-	"github.com/asticode/go-astilectron"
+	"github.com/syntacticsugarglider/go-astilectron"
 	"github.com/asticode/go-astilog"
 	"github.com/pkg/errors"
 )
