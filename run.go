@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/asticode/go-astilectron"
-	"github.com/asticode/go-astilectron-bundler"
+	"github.com/syntacticsugarglider/go-astilectron"
+	"github.com/syntacticsugarglider/go-astilectron-bundler"
 	"github.com/asticode/go-astilog"
 	"github.com/asticode/go-astitools/ptr"
 	"github.com/pkg/errors"
